@@ -7,7 +7,7 @@
 - 🌱 Currently learning GitHub & VS Code
 
 ## 🛠️ Skills
-- Python | Flutter | Firebase
+- Python | C | c++
 - IoT | ESP32 | TFLite
 - Git | GitHub | VS Code
 
