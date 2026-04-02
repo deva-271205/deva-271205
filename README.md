@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Deva! 👋
 
-<!--
-**deva-271205/deva-271205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 B.E. Electronics and Communication Engineering
+- 🏫 S.A. Engineering College, Chennai
+- 💻 Passionate about AI, IoT & Mobile Development
+- 🌱 Currently learning GitHub & VS Code
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python | Flutter | Firebase
+- IoT | ESP32 | TFLite
+- Git | GitHub | VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- GitHub: [@deva-271205](https://github.com/deva-271205)
+
+## 📊 My Projects
+- 📦 Smart Cargo Tracking System
